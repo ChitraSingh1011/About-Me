@@ -1,4 +1,5 @@
-🌟 **Hey there, I’m so glad you’re here!**
+## 🌷 Thanks for visiting—I'm glad you're here!
+
 
 Welcome to my little corner of GitHub!  
 I'm passionate about telling stories with data, building insights, and exploring AI one dataset at a time.  
