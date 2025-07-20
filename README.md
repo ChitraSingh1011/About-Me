@@ -15,9 +15,15 @@ Here, you'll find:
 🎓 Graduate from **CSJMU University, Kanpur**  
 💼 Experience through internships at **KultureHire** and **Parkear Estate**  
 🛠️ Tools I use: **Power BI | Excel | MySQL | PostgreSQL | Python | Canva**  
-🎯 Learning: **Generative AI, Prompt Engineering, Business Intelligence Tools**  
 🎨 Fun fact: I love crafting when I’m not analyzing data!
 
 ---
 
+🚨 **Important: Using My Projects? Please Read!**
+
+If you’re using or getting inspired by any of my projects, don’t forget to **give proper credit**.  
+A mention or link back is deeply appreciated and keeps the spirit of open-source alive! 🌟  
+
+
+---
 
